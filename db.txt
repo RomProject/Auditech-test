@@ -1,0 +1,13 @@
+-- create database auditech 
+-- use auditech
+ 
+ -- create table users(
+ -- id int auto_increment,
+ -- username text,
+ -- password text,
+ -- primary key(id)
+
+ -- );
+ 
+-- insert into users(username,password)
+-- values("jonijon","1234")
